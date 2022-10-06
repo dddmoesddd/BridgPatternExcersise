@@ -17,6 +17,10 @@ namespace BridgPattern
             seneData.Send();
             Console.ReadLine();
 
+            ////
+            ///
+
+
         }
     }
 }
