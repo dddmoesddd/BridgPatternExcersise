@@ -1,0 +1,11 @@
+C:\Users\mo\source\repos\BridgPattern\BridgPattern\bin\Debug\netcoreapp2.2\BridgPattern.deps.json
+C:\Users\mo\source\repos\BridgPattern\BridgPattern\bin\Debug\netcoreapp2.2\BridgPattern.runtimeconfig.json
+C:\Users\mo\source\repos\BridgPattern\BridgPattern\bin\Debug\netcoreapp2.2\BridgPattern.runtimeconfig.dev.json
+C:\Users\mo\source\repos\BridgPattern\BridgPattern\bin\Debug\netcoreapp2.2\BridgPattern.dll
+C:\Users\mo\source\repos\BridgPattern\BridgPattern\bin\Debug\netcoreapp2.2\BridgPattern.pdb
+C:\Users\mo\source\repos\BridgPattern\BridgPattern\obj\Debug\netcoreapp2.2\BridgPattern.csprojAssemblyReference.cache
+C:\Users\mo\source\repos\BridgPattern\BridgPattern\obj\Debug\netcoreapp2.2\BridgPattern.csproj.CoreCompileInputs.cache
+C:\Users\mo\source\repos\BridgPattern\BridgPattern\obj\Debug\netcoreapp2.2\BridgPattern.AssemblyInfoInputs.cache
+C:\Users\mo\source\repos\BridgPattern\BridgPattern\obj\Debug\netcoreapp2.2\BridgPattern.AssemblyInfo.cs
+C:\Users\mo\source\repos\BridgPattern\BridgPattern\obj\Debug\netcoreapp2.2\BridgPattern.dll
+C:\Users\mo\source\repos\BridgPattern\BridgPattern\obj\Debug\netcoreapp2.2\BridgPattern.pdb
